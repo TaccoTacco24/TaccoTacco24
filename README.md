@@ -82,12 +82,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/TaccoTacco24/TaccoTacco24/output/snake.svg" alt="Snake animation" />
-
-###
-
 <!--
 **TaccoTacco24/TaccoTacco24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
